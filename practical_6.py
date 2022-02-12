@@ -1,6 +1,6 @@
-#NAME: HENA KHARWA
-#ID: 20CE043
-#Githun link: https://github.com/20CE043/Practical_6.git
+#NAME: NEHAL PATEL
+#ID: 20CE094
+#Githun link: https://github.com/20CE094/Practical_6.git
 #Repeated Words
 N = int(input())
 str_list = []
